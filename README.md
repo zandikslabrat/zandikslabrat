@@ -7,3 +7,5 @@
   $\small{\textsf{" Goodbye Feofan. This time, that's what it truly is. "}}$
 
 $\small{\textsf{" And don't I know it. Goodbye Zandik. "}}$
+
+*[新](https://zandikslaboratory.atabook.org)*
